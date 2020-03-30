@@ -7,7 +7,7 @@ int main()
 
     printf("Ingrese su peso: ");
     scanf("%f", &peso);
-    printf("Su peso es: %.2f",peso);
+    printf("Su peso en kilos es: %.2f",peso);
 
     return 0;
 
