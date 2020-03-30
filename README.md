@@ -1,2 +1,2 @@
-# alexfed1011-gmail.com
+# E/S Ejercicios del Curso De Ingreso en C
 Ejercio del C
